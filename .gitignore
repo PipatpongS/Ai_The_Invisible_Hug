@@ -1,0 +1,7 @@
+venv/
+data/
+*.pkl
+*.zip
+__pycache__/
+.DS_Store
+.vscode/
